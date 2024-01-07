@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping
     public String hello(){
-        return "Hello V3 from spring boot application :)";
+        return "Hello WEBHOOK case from spring boot application :)";
     }
 
     @GetMapping("/user")
