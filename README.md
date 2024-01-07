@@ -13,6 +13,9 @@
 <img width="316" alt="image" src="https://github.com/HansLanda14ib/jenkins/assets/100965812/0d3dbfc2-82f8-4634-b6b1-10cbbd8ccbfa">
 
 # Part 2 : Exposing local jenkins to the internet using NGROK
+
+<img width="366" alt="image" src="https://github.com/HansLanda14ib/jenkins/assets/100965812/93401e8f-f9e1-407b-9bbe-9dbf1e83b965">
+
 ## using WEBHOOK GITHUB
 <img width="619" alt="image" src="https://github.com/HansLanda14ib/jenkins/assets/100965812/39a43fb3-4de7-410d-9807-25409abe4d48">
 
